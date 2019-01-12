@@ -1,13 +1,13 @@
-#utf_8 *lineX [prankBots Creator]
+#utf_8 *lineX [KontolBots Creator]
 
 """
-all of this data is copied from creator production PrankBots
-don't forget to always support the prabkbots channel
-SUBSCRABE HERE https://bit.ly/2xbVxlh
-MY ID LINE :: http://line.me/ti/p/~Adiputra.95
-Copy Righ :: http://github.com/Aprank
+all of this data is copied from creator production KontolBots
+don't forget to always support the kontolbots channel
+SUBSCRABE HERE http://www.youtube.com/dekilgrind
+MY ID LINE :: http://line.me/ti/p/~minumsususapi
+Copy Righ :: http://github.com/dekilgrind
 Country :: INDONESIA.
-Response by acil
+Response by dekil
 
 
 MENERIMA PEMESANAN SCRIPT
@@ -18,7 +18,7 @@ BOT OFFICIAL TEMPLATE
 
 PEMBUATAN BOT BEBAS REQUEST COMMANT, MODE BACKUP DLL.
 JIKA KAMU MINAT CHAT KE ID LINE
-line.me/ti/p/~Adiputra.95
+line.me/ti/p/~dekilgrind
 [TIDAK MENERIMA CALL ATAU UNDANGAN GRUP [AUTO REJECET AKTIF]]
 
 BIASAKAN CHAT DENGAN SOPAN WALAWPUN MENGGUNAKAN BAHAS FORMAL (LO,GW)
@@ -51,23 +51,7 @@ kicker3 = "TOKEN"
 kicker4 = "TOKEN"
 pending = "TOKEN"
 """
-PPPPPPPPPPPPPPPPP                                                           kkkkkkkk           BBBBBBBBBBBBBBBBB                             tttt                           
-P::::::::::::::::P                                                          k::::::k           B::::::::::::::::B                         ttt:::t                           
-P::::::PPPPPP:::::P                                                         k::::::k           B::::::BBBBBB:::::B                        t:::::t                           
-PP:::::P     P:::::P                                                        k::::::k           BB:::::B     B:::::B                       t:::::t                           
-  P::::P     P:::::Prrrrr   rrrrrrrrr     aaaaaaaaaaaaa   nnnn  nnnnnnnn     k:::::k    kkkkkkk  B::::B     B:::::B   ooooooooooo   ttttttt:::::ttttttt        ssssssssss   
-  P::::P     P:::::Pr::::rrr:::::::::r    a::::::::::::a  n:::nn::::::::nn   k:::::k   k:::::k   B::::B     B:::::B oo:::::::::::oo t:::::::::::::::::t      ss::::::::::s  
-  P::::PPPPPP:::::P r:::::::::::::::::r   aaaaaaaaa:::::a n::::::::::::::nn  k:::::k  k:::::k    B::::BBBBBB:::::B o:::::::::::::::ot:::::::::::::::::t    ss:::::::::::::s 
-  P:::::::::::::PP  rr::::::rrrrr::::::r           a::::a nn:::::::::::::::n k:::::k k:::::k     B:::::::::::::BB  o:::::ooooo:::::otttttt:::::::tttttt    s::::::ssss:::::s
-  P::::PPPPPPPPP     r:::::r     r:::::r    aaaaaaa:::::a   n:::::nnnn:::::n k::::::k:::::k      B::::BBBBBB:::::B o::::o     o::::o      t:::::t           s:::::s  ssssss 
-  P::::P             r:::::r     rrrrrrr  aa::::::::::::a   n::::n    n::::n k:::::::::::k       B::::B     B:::::Bo::::o     o::::o      t:::::t             s::::::s      
-  P::::P             r:::::r             a::::aaaa::::::a   n::::n    n::::n k:::::::::::k       B::::B     B:::::Bo::::o     o::::o      t:::::t                s::::::s   
-  P::::P             r:::::r            a::::a    a:::::a   n::::n    n::::n k::::::k:::::k      B::::B     B:::::Bo::::o     o::::o      t:::::t    ttttttssssss   s:::::s 
-PP::::::PP           r:::::r            a::::a    a:::::a   n::::n    n::::nk::::::k k:::::k   BB:::::BBBBBB::::::Bo:::::ooooo:::::o      t::::::tttt:::::ts:::::ssss::::::s
-P::::::::P           r:::::r            a:::::aaaa::::::a   n::::n    n::::nk::::::k  k:::::k  B:::::::::::::::::B o:::::::::::::::o      tt::::::::::::::ts::::::::::::::s 
-P::::::::P           r:::::r             a::::::::::aa:::a  n::::n    n::::nk::::::k   k:::::k B::::::::::::::::B   oo:::::::::::oo         tt:::::::::::tt s:::::::::::ss  
-PPPPPPPPPP           rrrrrrr              aaaaaaaaaa  aaaa  nnnnnn    nnnnnnkkkkkkkk    kkkkkkkBBBBBBBBBBBBBBBBB      ooooooooooo             ttttttttttt    sssssssssss    
-
+KONTOL          
 """
 #__________________________
 kk1 = LINE(kicker1)
@@ -274,7 +258,7 @@ warKey = """_________warbot__________
 7. warout
 8. warkick @
 9. warkey
-______prankBots creator______
+______KontolBots creator______
 """
 def SqL_R(text):
     R_SQL = text.lower()
@@ -942,7 +926,7 @@ def serviceX(rank):
                                 ret_ += "\n┣═Umur : {}".format(str(data["data"]["usia"]))
                                 ret_ += "\n┣═Tanggal ultah : {}".format(str(data["data"]["ultah"]))
                                 ret_ += "\n┣═Zodiak : {}".format(str(data["data"]["zodiak"]))
-                                ret_ += "\n╰━━═════[CREATOR PRANKBOTS]"
+                                ret_ += "\n╰━━═════[CREATOR KONTOLBOTS]"
                                 me.sendMessage(R, str(ret_))
                             except Exception as error:
                                 logError(error)
@@ -1104,7 +1088,7 @@ def serviceX(rank):
                                 ret_ += "\n┣═━━━Kode Qr/Link━━━═"
                                 ret_ += "\n┣═Group Ticket : {}".format(gTicket)
                                 ret_ += "\n┣═Group Qr : {}".format(gQr)
-                                ret_ += "\n╰━━━━══[ CREATOR PRANKBOT]"
+                                ret_ += "\n╰━━━━══[ CREATOR KONTOLBOT]"
                                 me.sendImageWithURL(R, path)
                                 me.sendMessage(R, str(ret_))
                         if PrankBotsData == Abouts["41"]:
@@ -1280,13 +1264,13 @@ def serviceX(rank):
                             RunTheRun(R, D, "_______RESULT______\n")
                             """
                             BOT WAR
-                            VERSION : PRANKBOTS
+                            VERSION : KonTolBOTS
                             REVISION : OPPS
                             """
         if rank.type == 25:
           """
           BOT WAR
-          VERSION : PRANKBOTS
+          VERSION : KONTOLBOTS
           REVISION : OPPS
           """
           if PrankBots["bot"] == True:
